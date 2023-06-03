@@ -26,7 +26,7 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 
 
 ## 5 Španělsko
-* Ernest Hemingway – Smrt odpoledne	<sub>Vydání Odeonu ze 70./80. let s obrazovou přílohou</sub>
+* Ernest Hemingway – Smrt odpoledne	<sub>(Vydání Odeonu ze 70./80. let s obrazovou přílohou)</sub>
 * Ernest Hemingway – Fiesta
 * Phil Ball – Bílá bouře
 
@@ -37,7 +37,7 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 
 ## 7 Súdán
 * Christian Norbert-Schulz – Genius loci
-* Gad Shimron – Mossad Exodus <sub>Též jako seriál The Red Sea Diving Resort</sub>
+* Gad Shimron – Mossad Exodus <sub>(Též jako seriál The Red Sea Diving Resort)</sub>
 
 ## 8 Udržitelnost a civilizace
 * Henry Kissinger – Leadership
