@@ -43,7 +43,7 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 * Henry Kissinger – Leadership
 
 ## 9 Asijský speciál II
-* Esej Maxe Weber o rozdílu mezi Sunnity a Šíity (?)
+* Esej Maxe Webera o rozdílu mezi Sunnity a Šíity (?)
 * Larry Collins, Dominique Lapierre – Ó Jeruzaléme
 * Larry Collins, Dominique Lapierre – O půlnoci přijde svoboda
 * Larry Collins, Dominique Lapierre – Hoří už Paříž?
