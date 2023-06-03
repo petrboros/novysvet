@@ -63,4 +63,4 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 
 ---
 
-Chyby a doplnění prosím ideálně do Github Issues nebo pište, díky.
+Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
