@@ -52,7 +52,7 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 * Hannah Arendt – Eichmann v Jeruzalémě: Zpráva o banalitě zla
 
 ## 10 Itálie
-* Ondřej Houska: Praha proti Římu: Československo-italské vztahy v letech 1922–1929
+* Ondřej Houska – Praha proti Římu: Československo-italské vztahy v letech 1922–1929
 * Ian McEwan – Cizinci ve městě
 * Giuseppe Tomasi di Lampedusa – Gepard
 * Henry Kissinger – Leadership
