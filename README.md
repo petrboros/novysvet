@@ -39,8 +39,10 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 * Christian Norbert-Schulz – Genius loci
 * Gad Shimron – Mossad Exodus <sub>(Též jako seriál The Red Sea Diving Resort)</sub>
 
+
 ## 8 Udržitelnost a civilizace
 * Henry Kissinger – Leadership
+
 
 ## 9 Asijský speciál II
 * Esej Maxe Webera o rozdílu mezi Sunnity a Šíity (?)
@@ -51,14 +53,34 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 * Jonathan Littell – Laskavé bohyně
 * Hannah Arendt – Eichmann v Jeruzalémě: Zpráva o banalitě zla
 
+
 ## 10 Itálie
 * Ondřej Houska – Praha proti Římu: Československo-italské vztahy v letech 1922–1929
 * Ian McEwan – Cizinci ve městě
 * Giuseppe Tomasi di Lampedusa – Gepard
 * Henry Kissinger – Leadership
 
+
 ## 11 Írán
 * Lenka Hrabalová – Mozaikou Íránu
+
+
+## 12 Pády civilizací
+* John Glubb – Osudy říší: Jak zajistit naše přežití
+* Jan Zábrana – Celý život
+* Martin Amis – Peníze
+* Isaac Asimov – Nadace
+* Robert Heinlein – Friday
+* Robert Heinlein – Měsíc je drsná milenka
+* Edward Gibbon – Úpadek a pád římské říše
+* Alan Palmer – Úpadek a pád osmanské říše
+* Arnold Toynbee – Studium dějin
+* Joseph Tainter – Kolapsy složitých společností
+* Peter Turchin – Dynamics of political instability in the United States
+* Miroslav Bárta, Martin Kovář & Otakar Foltýn – Na rozhraní
+* Mancur Olson – Vzestup a pád národů: ekonomický růst, stagflace a společenská rigidita
+* Robert Graves – Já, Claudius
+
 
 
 ---
