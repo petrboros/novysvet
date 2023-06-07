@@ -1,4 +1,4 @@
-# Čtenářský klub Nového světa
+# Knihovna Nového světa
 
 Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.info.cz/podcasty/novy-svet).
 
