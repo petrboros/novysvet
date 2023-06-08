@@ -63,6 +63,7 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 
 ## 11 Írán
 * Lenka Hrabalová – Mozaikou Íránu
+* Elias Canetti – Masa a moc
 
 
 ## 12 Pády civilizací
