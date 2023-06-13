@@ -83,6 +83,19 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 * Robert Graves – Já, Claudius
 
 
+## 13 Francie
+* Charles de Gaulle – Válečné paměti
+* Henry Kissinger – Leadership
+* Frederick Forsyth – Den pro Šakala
+* Marcel Pagnol – Jak voní tymián
+* Alexandre Dumas – Hrabě Monte Cristo
+* Marian Kechlibar – Krvavé levandule
+* cokoliv od Michela Houellebecqa včetně životopisu
+* Henri Barbusse – Oheň
+
+Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a událostí reprezentujících francouzského ducha. Vypisovat by to byla škoda, je třeba slyšet.
+
+
 
 ---
 
