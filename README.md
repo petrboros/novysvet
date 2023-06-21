@@ -4,97 +4,105 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 
 
 ## 1 Evropa
-* Miroslav Bárta, Martin Kovář & Otakar Foltýn – Na rozhraní
-* Miroslav Bárta - Sedm zákonů: Jak civilizace vznikají, dosahují vrcholu a upadají
-* Jeremy Popkin – A New World Begins: The History of the French Revolution
-* Charles de Gaulle – Válečné paměti
+* Miroslav Bárta, Martin Kovář & Otakar Foltýn – Na rozhraní ([knihobot](https://knihobot.cz/g/215228))
+* Miroslav Bárta - Sedm zákonů: Jak civilizace vznikají, dosahují vrcholu a upadají ([knihobot)](https://knihobot.cz/g/2996)
+* Jeremy Popkin – A New World Begins: The History of the French Revolution ([amazon](https://www.amazon.com/New-World-Begins-History-Revolution/dp/0465096662))
+* Charles de Gaulle – Válečné paměti ([knihobot](https://knihobot.cz/g/248782))
 
 
 ## 2 USA
-* Fareed Zakaria – Budoucnost svobody
-* Hillary Clinton – What happened
+* Fareed Zakaria – Budoucnost svobody ([knihobot](https://knihobot.cz/g/125996))
+* Hillary Clinton – What happened ([knihobot](https://knihobot.cz/g/242948))
 
 
 ## 3 Egypt
-* Henry Kissinger – Leadership
+* Henry Kissinger – Leadership ([knihobot](https://knihobot.cz/g/668479))
 
 
 ## 4 Víra
-* Michel Houellebecq – Podvolení
-* Michel Houellebecq – Zničit
-* Michel Houellebecq – Serotonin
+* Michel Houellebecq – Podvolení ([knihobot](https://knihobot.cz/g/72943))
+* Michel Houellebecq – Zničit ([knihobot](https://knihobot.cz/g/601950))
+* Michel Houellebecq – Serotonin ([knihobot](https://knihobot.cz/g/16610))
 
 
 ## 5 Španělsko
-* Ernest Hemingway – Smrt odpoledne	<sub>(Vydání Odeonu ze 70./80. let s obrazovou přílohou)</sub>
-* Ernest Hemingway – Fiesta
-* Phil Ball – Bílá bouře
+* Ernest Hemingway – Smrt odpoledne ([knihobot](https://knihobot.cz/g/441694))	<sub>(Vydání Odeonu ze 70./80. let s obrazovou přílohou)</sub>
+* Ernest Hemingway – Fiesta ([knihobot](https://knihobot.cz/g/461570))
+* Phil Ball – Bílá bouře ([knihobot](https://knihobot.cz/g/168422))
 
 
 ## 6 Asijský speciál
-* Chris Miller – Chip War: The Fight for the World's Most Critical Technology
+* Chris Miller – Chip War: The Fight for the World's Most Critical Technology [(amazon)](https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002)
 
 
 ## 7 Súdán
-* Christian Norbert-Schulz – Genius loci
-* Gad Shimron – Mossad Exodus <sub>(Též jako seriál The Red Sea Diving Resort)</sub>
+* Christian Norbert-Schulz – Genius loci ([dobrovský](https://www.knihydobrovsky.cz/kniha/genius-loci-40476))
+* Gad Shimron – Mossad Exodus ([amazon](https://www.amazon.com/Mossad-Exodus-Daring-Undercover-Rescue/dp/9652294039)) <sub>(Též jako seriál The Red Sea Diving Resort)</sub>
 
 
 ## 8 Udržitelnost a civilizace
-* Henry Kissinger – Leadership
+* Henry Kissinger – Leadership ([knihobot](https://knihobot.cz/g/668479))
 
 
 ## 9 Asijský speciál II
 * Esej Maxe Webera o rozdílu mezi Sunnity a Šíity (?)
-* Larry Collins, Dominique Lapierre – Ó Jeruzaléme
-* Larry Collins, Dominique Lapierre – O půlnoci přijde svoboda
-* Larry Collins, Dominique Lapierre – Hoří už Paříž?
-* Agatha Christie – Schůzka se smrtí
-* Jonathan Littell – Laskavé bohyně
-* Hannah Arendt – Eichmann v Jeruzalémě: Zpráva o banalitě zla
+* Larry Collins, Dominique Lapierre – Ó Jeruzaléme ([knihobot](https://knihobot.cz/g/46357))
+* Larry Collins, Dominique Lapierre – O půlnoci přijde svoboda ([knihobot](https://knihobot.cz/g/365668))
+* Larry Collins, Dominique Lapierre – Hoří už Paříž? ([knihobot](https://knihobot.cz/p/q/Ho%C5%99%C3%AD%20u%C5%BE%20Pa%C5%99%C3%AD%C5%BE))
+* Agatha Christie – Schůzka se smrtí ([knihobot](https://knihobot.cz/g/441511))
+* Jonathan Littell – Laskavé bohyně ([knihobot](https://knihobot.cz/g/142786))
+* Hannah Arendt – Eichmann v Jeruzalémě: Zpráva o banalitě zla ([knihobot](https://knihobot.cz/g/23407))
 
 
 ## 10 Itálie
-* Ondřej Houska – Praha proti Římu: Československo-italské vztahy v letech 1922–1929
-* Ian McEwan – Cizinci ve městě
-* Giuseppe Tomasi di Lampedusa – Gepard
-* Henry Kissinger – Leadership
+* Ondřej Houska – Praha proti Římu: Československo-italské vztahy v letech 1922–1929 ([knihobot](https://knihobot.cz/g/110213))
+* Ian McEwan – Cizinci ve městě ([knihobot](https://knihobot.cz/g/98988))
+* Giuseppe Tomasi di Lampedusa – Gepard ([knihobot](https://knihobot.cz/g/417568))
+* Henry Kissinger – Leadership ([knihobot](https://knihobot.cz/g/668479))
 
 
 ## 11 Írán
-* Lenka Hrabalová – Mozaikou Íránu
-* Elias Canetti – Masa a moc
+* Lenka Hrabalová – Mozaikou Íránu ([knihobot](https://knihobot.cz/g/638891))
+* Elias Canetti – Masa a moc ([knihobot](https://knihobot.cz/g/17120))
 
 
 ## 12 Pády civilizací
-* John Glubb – Osudy říší: Jak zajistit naše přežití
-* Jan Zábrana – Celý život
-* Martin Amis – Peníze
-* Isaac Asimov – Nadace
-* Robert Heinlein – Friday
-* Robert Heinlein – Měsíc je drsná milenka
-* Edward Gibbon – Úpadek a pád římské říše
-* Alan Palmer – Úpadek a pád osmanské říše
-* Arnold Toynbee – Studium dějin
-* Joseph Tainter – Kolapsy složitých společností
-* Peter Turchin – Dynamics of political instability in the United States
-* Miroslav Bárta, Martin Kovář & Otakar Foltýn – Na rozhraní
-* Mancur Olson – Vzestup a pád národů: ekonomický růst, stagflace a společenská rigidita
-* Robert Graves – Já, Claudius
+* John Glubb – Osudy říší: Jak zajistit naše přežití ([dobrovský](https://www.knihydobrovsky.cz/kniha/osudy-risi-jak-zajistit-nase-preziti-534993979))
+* Jan Zábrana – Celý život ([knihobot](https://knihobot.cz/g/44313))
+* Martin Amis – Peníze ([knihobot](https://knihobot.cz/g/138203))
+* Isaac Asimov – Nadace ([knihobot](https://knihobot.cz/g/20525))
+* Robert Heinlein – Friday ([knihobot](https://knihobot.cz/g/154139))
+* Robert Heinlein – Měsíc je drsná milenka ([dobrovský](https://www.knihydobrovsky.cz/kniha/friday-74474))
+* Edward Gibbon – Úpadek a pád římské říše ([dobrovský](https://www.knihydobrovsky.cz/kniha/upadek-a-pad-rimske-rise-189128378))
+* Alan Palmer – Úpadek a pád osmanské říše ([knihobot](https://knihobot.cz/g/113022))
+* Arnold Toynbee – Studium dějin ([knihobot](https://knihobot.cz/g/59162))
+* Joseph Tainter – Kolapsy složitých společností ([knihobot](https://knihobot.cz/g/85912))
+* Peter Turchin – Dynamics of political instability in the United States ([peterturchin.com](https://peterturchin.com/age-of-discord/united-states-political-violence-database/))
+* Miroslav Bárta, Martin Kovář & Otakar Foltýn – Na rozhraní ([knihobot](https://knihobot.cz/g/215228))
+* Mancur Olson – Vzestup a pád národů: ekonomický růst, stagflace a společenská rigidita ([knihobot](https://knihobot.cz/g/232045), [ebook zdarma](https://libinst.cz/book/olson-m-1984-vzestup-a-pad-narodu/))
+* Robert Graves – Já, Claudius ([knihobot](https://knihobot.cz/g/67847))
 
 
 ## 13 Francie
-* Charles de Gaulle – Válečné paměti
-* Henry Kissinger – Leadership
-* Frederick Forsyth – Den pro Šakala
-* Marcel Pagnol – Jak voní tymián
-* Alexandre Dumas – Hrabě Monte Cristo
-* Marian Kechlibar – Krvavé levandule
-* cokoliv od Michela Houellebecqa včetně životopisu
-* Henri Barbusse – Oheň
+* Charles de Gaulle – Válečné paměti ([knihobot](https://knihobot.cz/g/248782))
+* Henry Kissinger – Leadership ([knihobot](https://knihobot.cz/g/668479))
+* Frederick Forsyth – Den pro Šakala ([knihobot](https://knihobot.cz/g/460924))
+* Marcel Pagnol – Jak voní tymián ([knihobot](https://knihobot.cz/g/103009))
+* Alexandre Dumas – Hrabě Monte Cristo ([knihobot](https://knihobot.cz/g/540464))
+* Marian Kechlibar – Krvavé levandule ([knihobot](https://knihobot.cz/g/23149))
+* cokoliv od Michela Houellebecqa včetně životopisu ([knihobot](https://knihobot.cz/p/q/Houellebecq%2C%20Michel))
+* Henri Barbusse – Oheň ([knihobot](https://knihobot.cz/g/120752))
 
 Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a událostí reprezentujících francouzského ducha. Vypisovat by to byla škoda, je třeba slyšet.
 
+
+## 14 Světoví lídři
+* Henry Kissinger – Leadership ([knihobot](https://knihobot.cz/g/668479))
+* Miroslav Bárta - Sedm zákonů: Jak civilizace vznikají, dosahují vrcholu a upadají ([knihobot](https://knihobot.cz/g/2996))
+* Dan Brown – Šifra mistra Leonarda ([knihobot](https://knihobot.cz/g/1478)) <sub>(Existují pochybnosti, zda byla kniha zmíněna jako studijní literatura k tématu leadershipu)</sub>
+* Miroslav Bárta – Příběh civilizace ([knihobot](https://knihobot.cz/g/9086))
+* deník morového roku
+* Christian Norbert-Schulz – Genius loci ([dobrovský](https://www.knihydobrovsky.cz/kniha/genius-loci-40476))
 
 
 ---
