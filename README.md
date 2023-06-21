@@ -101,7 +101,7 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Miroslav Bárta - Sedm zákonů: Jak civilizace vznikají, dosahují vrcholu a upadají ([knihobot](https://knihobot.cz/g/2996))
 * Dan Brown – Šifra mistra Leonarda ([knihobot](https://knihobot.cz/g/1478)) <sub>(Existují pochybnosti, zda byla kniha zmíněna jako studijní literatura k tématu leadershipu)</sub>
 * Miroslav Bárta – Příběh civilizace ([knihobot](https://knihobot.cz/g/9086))
-* deník morového roku
+* Daniel Defoe – Deník morového roku ([knihobot](https://knihobot.cz/g/413440))
 * Christian Norbert-Schulz – Genius loci ([dobrovský](https://www.knihydobrovsky.cz/kniha/genius-loci-40476))
 
 
