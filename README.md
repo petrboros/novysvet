@@ -105,6 +105,12 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Christian Norbert-Schulz – Genius loci ([dobrovský](https://www.knihydobrovsky.cz/kniha/genius-loci-40476))
 
 
+## Pod čarou
+
+Posbíráno z twitterových vláken autorů Nového světa.
+
+* Edward Luttwak – Coup d'État: A Practical Handbook ([knihobot](https://knihobot.cz/g/38947))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
