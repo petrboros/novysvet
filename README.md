@@ -105,6 +105,12 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Christian Norbert-Schulz – Genius loci ([dobrovský](https://www.knihydobrovsky.cz/kniha/genius-loci-40476))
 
 
+## 15 Vietnam
+* Ladislav Kudrna – První vietnamská válka ([knihobot](https://knihobot.cz/g/133216))
+* Graham Greene – Tichý Američan ([knihobot](https://knihobot.cz/g/373972))
+* Marguerite Durasová – Milenec ([knihobot](https://knihobot.cz/g/100940))
+
+
 ## Pod čarou
 
 Posbíráno z twitterových vláken autorů Nového světa.
