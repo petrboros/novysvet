@@ -111,11 +111,16 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Marguerite Durasová – Milenec ([knihobot](https://knihobot.cz/g/100940))
 
 
-## Pod čarou
-
-Posbíráno z twitterových vláken autorů Nového světa.
+## 16 Státní převraty
 
 * Edward Luttwak – Coup d'État: A Practical Handbook ([knihobot](https://knihobot.cz/g/38947))
+* Karel Durman – Útěk od praporů: Kreml a krize impéria 1964-1991 ([knihobot](https://knihobot.cz/g/174977))
+* William Taubman – Gorbačov: Život a doba ([dobrovský](https://www.knihydobrovsky.cz/kniha/gorbacov-zivot-a-doba-485189196))
+* William Taubman – Chruščov: Člověk a jeho doba ([dobrovský](https://www.knihydobrovsky.cz/kniha/chruscov-50915))
+* Boris Pasternak – Doktor Živago ([knihobot](https://knihobot.cz/g/13228))
+* Vladimir Nabokov – Promluv, paměti ([knihobot](https://knihobot.cz/g/38484))
+* Nikolaj Gogol – Mrtvé duše ([knihobot](https://knihobot.cz/g/6149))
+* Isabelle Allendeová – Dům duchů ([knihobot](https://knihobot.cz/g/56864))
 
 ---
 
