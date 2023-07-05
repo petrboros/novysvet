@@ -5,7 +5,7 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 
 ## 1 Evropa
 * Miroslav Bárta, Martin Kovář & Otakar Foltýn – Na rozhraní ([knihobot](https://knihobot.cz/g/215228))
-* Miroslav Bárta - Sedm zákonů: Jak civilizace vznikají, dosahují vrcholu a upadají ([knihobot)](https://knihobot.cz/g/2996)
+* Miroslav Bárta - Sedm zákonů: Jak civilizace vznikají, dosahují vrcholu a upadají ([knihobot)](https://knihobot.cz/g/2996))
 * Jeremy Popkin – A New World Begins: The History of the French Revolution ([amazon](https://www.amazon.com/New-World-Begins-History-Revolution/dp/0465096662))
 * Charles de Gaulle – Válečné paměti ([knihobot](https://knihobot.cz/g/248782))
 
