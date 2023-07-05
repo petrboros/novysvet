@@ -122,6 +122,16 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Nikolaj Gogol – Mrtvé duše ([knihobot](https://knihobot.cz/g/6149))
 * Isabelle Allendeová – Dům duchů ([knihobot](https://knihobot.cz/g/56864))
 
+
+## 17 Francie a nezvládnutá migrace
+
+* Emmanuel Todd – The Final Fall: An Essay on the Decomposition of the Soviet Sphere ([cambridge](https://www.cambridge.org/core/journals/nationalities-papers/article/abs/emmanuel-todd-the-final-fall-an-essay-on-the-decomposition-of-the-soviet-sphere-transl-by-john-waggoner-new-york-karz-publishers-1979-pp-236-1250/580BF3FE6F937413378369C62A4BF0C0))
+* Emmanuel Todd – Who Is Charlie? Xenophobia and the New Middle Class ([megaknihy](https://www.megaknihy.cz/politologie/20257150-who-is-charlie-xenophobia-and-the-new-middle-class.html))
+* Kelly Greenhill – Weapons of Mass Migration: Forced Displacement, Coercion, and Foreign Policy ([enknihy](https://www.enbook.cz/catalog/product/view/id/458926))
+* Marian Kechlibar – Krvavé levandule ([knihobot](https://knihobot.cz/g/23149))
+* Jean Raspail – Tábor svatých ([knihobot](https://knihobot.cz/g/20220))
+* Luděk Frýbort – Pod znamením půlměsíce ([knihobot](https://knihobot.cz/g/80672))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
