@@ -132,6 +132,13 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Jean Raspail – Tábor svatých ([knihobot](https://knihobot.cz/g/20220))
 * Luděk Frýbort – Pod znamením půlměsíce ([knihobot](https://knihobot.cz/g/80672))
 
+
+## 18 Neapol
+
+* Giuseppe Tomasi di Lampedusa – Gepard ([knihobot](https://knihobot.cz/g/417568))
+* Roberto Saviano – Gomora: osobní výpověď o ekonomické moci a brutální rozpínavosti neapolské camorry ([knihobot](https://knihobot.cz/g/84452))
+
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
