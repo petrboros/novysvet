@@ -59,6 +59,7 @@ Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.inf
 * Ian McEwan – Cizinci ve městě ([knihobot](https://knihobot.cz/g/98988))
 * Giuseppe Tomasi di Lampedusa – Gepard ([knihobot](https://knihobot.cz/g/417568))
 * Henry Kissinger – Leadership ([knihobot](https://knihobot.cz/g/668479))
+* Umberto Eco – Tajemný plamen královny Loany ([knihobot](https://knihobot.cz/g/152335))
 
 
 ## 11 Írán
