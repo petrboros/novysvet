@@ -140,6 +140,22 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Roberto Saviano – Gomora: osobní výpověď o ekonomické moci a brutální rozpínavosti neapolské camorry ([knihobot](https://knihobot.cz/g/84452))
 
 
+## 19 Izrael
+
+* Theodor Herzl – Židovský stát: Pokus o moderní řešení židovské otázky ([knihobot](https://knihobot.cz/g/2248))
+* Henry Kissinger – Leadership ([knihobot](https://knihobot.cz/g/668479))
+* Jakub Szántó – Z Izrastiny s láskou: reportérem mezi dvěma zeměmi ([knihobot](https://knihobot.cz/g/36078))
+* Simon Sebag-Montefiore – Jeruzalém: Dějiny svatého města ([knihobot](https://knihobot.cz/g/98936))
+* Israel Finkelstein – Objevování Bible: Svatá Písma Izraele ve světle moderní archeologie ([knihobot](https://knihobot.cz/g/375401))
+* Israel Finkelstein – Zapomenuté království: archeologie a dějiny severního Izraele
+ ([knihobot](https://knihobot.cz/g/239398))
+* Tuvia Tenenbom – Po čem rabíni touží: mimořádně vtipná i politicky nekorektní zpráva o ortodoxních Židech ([knihobot](https://knihobot.cz/g/599989))
+* Louis Ginzberg – Legendy Židů ([knihobot](https://knihobot.cz/g/566637))
+* Arnošt Lustig – Modlitba pro Kateřinu Horovitzovou ([knihobot](https://knihobot.cz/g/22519))
+* John Le Carré – Malá bubenice ([knihobot](https://knihobot.cz/g/14665))
+* George Jonas – Odveta ([knihobot](https://knihobot.cz/g/20861))
+* Bible svatá <sub><sup>(To má každý doma...)</sup></sub>
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
