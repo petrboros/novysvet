@@ -160,7 +160,7 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 ## 20 BlackRock
 
 * BlackRock 2023 Midyear Outlook ([dostupné online](https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/outlook))
-* Stanford AI Index Report ([2022](https://aiindex.stanford.edu/ai-index-report-2022/)), [2023](https://aiindex.stanford.edu/report/))
+* Stanford AI Index Report ([2022](https://aiindex.stanford.edu/ai-index-report-2022/), [2023](https://aiindex.stanford.edu/report/))
 * Martin Wolf – Posuny a otřesy: Ponaučení z finanční krize ([knihobot](https://knihobot.cz/g/56640))
 
 ---
