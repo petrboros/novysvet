@@ -156,6 +156,13 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * George Jonas – Odveta ([knihobot](https://knihobot.cz/g/20861))
 * Bible svatá <sub><sup>(To má každý doma...)</sup></sub>
 
+
+## 20 BlackRock
+
+* BlackRock 2023 Midyear Outlook ([dostupné online](https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/outlook))
+* Stanford AI Index Report ([2022](https://aiindex.stanford.edu/ai-index-report-2022/)), [2023](https://aiindex.stanford.edu/report/))
+* Martin Wolf – Posuny a otřesy: Ponaučení z finanční krize ([knihobot](https://knihobot.cz/g/56640))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
