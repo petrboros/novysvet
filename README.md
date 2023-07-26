@@ -154,6 +154,7 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Arnošt Lustig – Modlitba pro Kateřinu Horovitzovou ([knihobot](https://knihobot.cz/g/22519))
 * John Le Carré – Malá bubenice ([knihobot](https://knihobot.cz/g/14665))
 * George Jonas – Odveta ([knihobot](https://knihobot.cz/g/20861))
+* Larry Collins, Dominique Lapierre – Ó Jeruzaléme ([knihobot](https://knihobot.cz/g/46357))
 * Bible svatá <sub><sup>(To má každý doma...)</sup></sub>
 
 
