@@ -164,6 +164,18 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Stanford AI Index Report ([2022](https://aiindex.stanford.edu/ai-index-report-2022/), [2023](https://aiindex.stanford.edu/report/))
 * Martin Wolf – Posuny a otřesy: Ponaučení z finanční krize ([knihobot](https://knihobot.cz/g/56640))
 
+
+## 21 Terorismus
+
+* Aimen Dean – Nine lives: my time as MI6's top spy inside al-Qaeda ([knihobot](https://knihobot.cz/g/522821))
+* John Le Carré – Malá bubenice ([knihobot](https://knihobot.cz/g/14665))
+* Gilles Kepel – Jihad: The trail of political islam ([megaknihy](https://www.megaknihy.cz/humanitni-vedy/2621390-jihad.html))
+* Gilles Kepel – Cesta z chaosu ([karolinum](https://karolinum.cz/knihy/kepel-cesta-z-chaosu-26101))
+* Tony Blaire – Moje cesta ([knihobot](https://knihobot.cz/g/152757))
+* George Bush – Okamžiky rozhodnutí ([knihobot](https://knihobot.cz/g/172880))
+* Michel Houellebecq – Podvolení ([knihobot](https://knihobot.cz/g/72943))
+* Martin Kovář – Amerika ve válce ([info](https://www.info.cz/produkty/amerika-ve-valce))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
