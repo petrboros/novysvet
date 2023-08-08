@@ -176,6 +176,18 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Michel Houellebecq – Podvolení ([knihobot](https://knihobot.cz/g/72943))
 * Martin Kovář – Amerika ve válce ([info](https://www.info.cz/produkty/amerika-ve-valce))
 
+
+## 22 Společenská smlouva
+
+* John Locke – Druhé pojednání o vládě ([knihobot](https://knihobot.cz/g/184692))
+* Jean Jacques Rousseau – O společenské smlouvě ([knihobot](https://knihobot.cz/g/384672))
+* Aristotelés – Politika ([knihobot](https://knihobot.cz/g/323475))
+* Miroslav Bárta - Sedm zákonů: Jak civilizace vznikají, dosahují vrcholu a upadají ([knihobot](https://knihobot.cz/g/2996))
+* Emmanuel Todd – The Final Fall: An Essay on the Decomposition of the Soviet Sphere ([cambridge](https://www.cambridge.org/core/journals/nationalities-papers/article/abs/emmanuel-todd-the-final-fall-an-essay-on-the-decomposition-of-the-soviet-sphere-transl-by-john-waggoner-new-york-karz-publishers-1979-pp-236-1250/580BF3FE6F937413378369C62A4BF0C0))
+* Karel Durman – Útěk od praporů: Kreml a krize impéria 1964-1991 ([knihobot](https://knihobot.cz/g/174977))
+* Lon Fuller – Morálka práva ([knihobot](https://knihobot.cz/g/197843))
+* Leopold Pospisil – Kapauku Papuans And Their Law ([amazon](https://www.amazon.com/Kapauku-Papuans-Their-Law-Publications/dp/1258191946))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
