@@ -188,6 +188,19 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Lon Fuller – Morálka práva ([knihobot](https://knihobot.cz/g/197843))
 * Leopold Pospisil – Kapauku Papuans And Their Law ([amazon](https://www.amazon.com/Kapauku-Papuans-Their-Law-Publications/dp/1258191946))
 
+
+## 23 Niger
+
+* Ahmadou Kourouma – Až bude volit divá zvěř ([knihobot](https://knihobot.cz/g/186690))
+
+
+## 24 Kolo
+
+* Jared Diamond – Osudy lidských společností: Střelné zbraně, choroboplodné zárodky a ocel v historii ([knihobot](https://knihobot.cz/g/153805))
+* Christian Wolmar – The Great Railroad Revolution ([amazon](https://www.amazon.com/Great-Railroad-Revolution-History-America/dp/1610393473))
+* Tomáš Macek – Příběhy staré dámy ([knihobot](https://knihobot.cz/g/95191))
+* Tomáš Macek – Příběhy Corsa rosa ([knihobot](https://knihobot.cz/g/39114))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
