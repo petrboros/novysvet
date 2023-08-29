@@ -201,6 +201,17 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Tomáš Macek – Příběhy staré dámy ([knihobot](https://knihobot.cz/g/95191))
 * Tomáš Macek – Příběhy Corsa rosa ([knihobot](https://knihobot.cz/g/39114))
 
+
+## 25 Nerůst
+* Thomas Malthus – An Essay on the Principle of Population ([online](http://www.esp.org/books/malthus/population/malthus.pdf))
+* Hans Rosling – Faktomluva ([knihobot](https://knihobot.cz/g/33511))
+* Joseph Tainter – Kolapsy složitých společností ([knihobot](https://knihobot.cz/g/85912))
+* Mojmír Hampl – Vyčerpání zdrojů: Skvěle prodejný mýtus ([knihobot](https://knihobot.cz/g/368299))
+* Anthony Sampson – The Seven Sisters: The great oil companies & the world they shaped ([amazon](https://www.amazon.com/Seven-Sisters-great-companies-shaped/dp/067063591X))
+* Adam Smith – Bohatství národů ([knihobot](https://knihobot.cz/g/181819))
+* Michel Mollat du Jourdain – Evropa a moře ([knihobot](https://knihobot.cz/g/445886))
+
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
