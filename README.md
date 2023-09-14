@@ -218,6 +218,13 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Kingsley Amis – U zeleného muže ([knihobot](https://knihobot.cz/g/173982))
 
 
+## 27 Katalánsko
+
+* Jiří Chalupa – Zápisky o válce občanské ([knihobot](https://knihobot.cz/g/167771))
+* Jiří Chalupa – Jak umírá diktatura ([knihobot](https://knihobot.cz/g/143661))
+* Phil Ball – Bílá bouře ([knihobot](https://knihobot.cz/g/168422))
+* George Orwell – Hold Katalánsku ([knihobot](https://knihobot.cz/g/464917))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
