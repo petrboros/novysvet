@@ -225,6 +225,14 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Phil Ball – Bílá bouře ([knihobot](https://knihobot.cz/g/168422))
 * George Orwell – Hold Katalánsku ([knihobot](https://knihobot.cz/g/464917))
 
+
+## 28 Náhorní Karabach
+
+* Karel Hansa – Hrůzy východu ([knihobot](https://knihobot.cz/g/194000))
+* Karel Hansa – Z potulek orientem a haremy ve světle pravdy ([trh knih](https://www.trhknih.cz/kniha/1io55acob2))
+* Isabelle Allendeová – Dům duchů ([knihobot](https://knihobot.cz/g/56864))
+
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
