@@ -233,6 +233,11 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Isabelle Allendeová – Dům duchů ([knihobot](https://knihobot.cz/g/56864))
 
 
+## 29 Polsko
+* František L. Čelakovský – Ohlas písní ruských ([knihobot](https://knihobot.cz/g/367227))
+* Mariusz Szczygieł – Gottland ([knihobot](https://knihobot.cz/g/447387))
+* Mariusz Szczygieł – Udělej si ráj ([knihobot](https://knihobot.cz/g/386023))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
