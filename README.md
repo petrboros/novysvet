@@ -238,6 +238,17 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Mariusz Szczygieł – Gottland ([knihobot](https://knihobot.cz/g/447387))
 * Mariusz Szczygieł – Udělej si ráj ([knihobot](https://knihobot.cz/g/386023))
 
+
+## 30 Amerika ve varu
+* Walter Isaacson – Elon Musk ([luxor](https://www.luxor.cz/v/1953681/elon-musk))
+* Matthew McConaughey – Greenlights ([knihobot](https://knihobot.cz/g/453959))
+* Barack Obama – Země zaslíbená ([knihobot](https://knihobot.cz/g/475250))
+* Barack Obama – Dreams from my father ([knihobot](https://knihobot.cz/g/449900))
+* Tom Wolfe – Ohňostroj marnosti ([knihobot](https://knihobot.cz/g/24649))
+* Robert Penn Warren – Všichni jsou zbrojnoši královi ([knihobot](https://knihobot.cz/g/438459))
+* Dashiell Hammett – Rudá žeň (součást knihy Tři krvavé historie – [knihobot](https://knihobot.cz/g/358091))
+* Dashiell Hammett – Skleněný klíč ([knihobot](https://knihobot.cz/g/360196))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
