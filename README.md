@@ -249,6 +249,26 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 * Dashiell Hammett – Rudá žeň (součást knihy Tři krvavé historie – [knihobot](https://knihobot.cz/g/358091))
 * Dashiell Hammett – Skleněný klíč ([knihobot](https://knihobot.cz/g/360196))
 
+
+## 31 Izrael ve válce
+
+_Nouzové vysílání k aktuální situaci, bez knižních tipů._
+
+
+## 32 Německo
+* Henry Kissinger – Leadership ([knihobot](https://knihobot.cz/g/668479))
+* Charles Williams – Adenauer. Otec nového Německa ([knihobot](https://knihobot.cz/g/121838))
+* Andrej Sacharov – Nuclear and the energy freedom of the West ([knihobot](https://www.tandfonline.com/doi/abs/10.1080/00963402.1978.11458514))
+* Vaclav Smil – Numbers don't lie ([knihobot](https://knihobot.cz/g/256985))
+* Tuvia Tenenbom – Spím v Hitlerově pokoji ([knihobot](https://knihobot.cz/g/21880))
+* Günter Grass – Moje století ([knihobot](https://knihobot.cz/g/140291))
+* Hannah Arendt – Eichmann v Jeruzalémě: Zpráva o banalitě zla ([knihobot](https://knihobot.cz/g/23407))
+
+
+## 33 Boj o vodu
+* Thomas Homer-Dixon – Environment, scarcity, and violence ([knihobot](https://knihobot.cz/g/273816))
+* Fitzroy Maclean – Výpravy na Východ ([knihobot](https://knihobot.cz/g/3475672))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
