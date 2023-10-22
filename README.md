@@ -251,8 +251,13 @@ Mezi 58:48 a 59:21 vychrlí profesor Kovář dalších 13 knih, umělců a udál
 
 
 ## 31 Izrael ve válce
+_Tipy doplněny z tweetu profesora Kováře._
+* John Le Carré – Malá bubenice ([knihobot](https://knihobot.cz/g/14665))
+* John Le Carré – Nejhledanější muž ([knihobot](https://knihobot.cz/g/157813))
+* Alois Musil – Ze světa islámu ([knihobot](https://knihobot.cz/g/238887))
+* Gil Yaron – Jeruzalém, stře(d)t světa ([knihobot](https://knihobot.cz/g/394653))
+* David Sims – Understanding Cairo: The Logic of a City Out of Control ([amazon](https://www.amazon.com/Understanding-Cairo-Logic-City-Control/dp/9774165535))
 
-_Nouzové vysílání k aktuální situaci, bez knižních tipů._
 
 
 ## 32 Německo
