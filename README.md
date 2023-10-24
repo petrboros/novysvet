@@ -274,6 +274,13 @@ _Tipy doplněny z tweetu profesora Kováře._
 * Thomas Homer-Dixon – Environment, scarcity, and violence ([knihobot](https://knihobot.cz/g/273816))
 * Fitzroy Maclean – Výpravy na Východ ([knihobot](https://knihobot.cz/g/3475672))
 
+
+## 34 Indiana Jones a ti druzí
+* Eric H. Cline – 1177 př. Kr. Zhroucení civilizace a invaze mořských národů ([knihobot](https://knihobot.cz/g/46123))
+* Michael Ondaatje – Anglický pacient ([knihobot](https://knihobot.cz/g/44808))
+* Yuval Noah Harari – Sapiens ([knihobot](https://knihobot.cz/g/460745))
+* Archimédův kodex (palimpsest) ([online](http://archimedespalimpsest.org/digital/))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
