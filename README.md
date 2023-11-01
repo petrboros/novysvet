@@ -281,6 +281,12 @@ _Tipy doplněny z tweetu profesora Kováře._
 * Yuval Noah Harari – Sapiens ([knihobot](https://knihobot.cz/g/460745))
 * Archimédův kodex (palimpsest) ([online](http://archimedespalimpsest.org/digital/))
 
+
+## 35 Sopky
+* Wolfgang Behringer – Tambora and the Year without a Summer ([megaknihy](https://www.megaknihy.cz/geografie/363724-tambora-and-the-year-without-a-summer.html))
+* Simon Winchester – Krakatoa ([knihobot](https://knihobot.cz/g/608024))
+* Paul Johnson – Zrození moderní doby ([knihobot](https://knihobot.cz/g/155899)) <sub><sup>(Profesor Kovář „nedoporučuje číst, doporučuje otevřít“)</sup></sub>
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
