@@ -287,6 +287,20 @@ _Tipy doplněny z tweetu profesora Kováře._
 * Simon Winchester – Krakatoa ([knihobot](https://knihobot.cz/g/608024))
 * Paul Johnson – Zrození moderní doby ([knihobot](https://knihobot.cz/g/155899)) <sub><sup>(Profesor Kovář „nedoporučuje číst, doporučuje otevřít“)</sup></sub>
 
+
+## 36 (Nejen turistický) Londýn
+* Rudyard Kipling – Mauglí ([knihobot](https://knihobot.cz/g/62073))
+* Charles Dickins – Příběh dvou měst ([knihobot](https://knihobot.cz/g/535440))
+* Geraint Anderson – Cityboy ([knihobot](https://knihobot.cz/g/152766))
+* Alan Rickman – Deníky ([knihobot](https://knihobot.cz/g/665638))
+* Arthur Conan Doyle – Návrat Sherlock Holmese ([knihobot](https://knihobot.cz/g/20602))
+* James Matthew Barrie – Petr Pan ([knihobot](https://knihobot.cz/g/62487))
+* Michael Bond – Medvídek Paddington ([knihobot](https://knihobot.cz/g/3523504))
+* Bram Stoker – Dracula ([knihobot](https://knihobot.cz/g/460915))
+* Virginia Woolfová – Paní Dallowayová ([knihobot](https://knihobot.cz/g/38733))
+* Martin Amis – Londýnská pole ([knihobot](https://knihobot.cz/g/175701))
+* Ian McEwan – Sobota ([knihobot](https://knihobot.cz/g/120826))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
