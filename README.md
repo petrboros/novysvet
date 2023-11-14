@@ -301,6 +301,10 @@ _Tipy doplněny z tweetu profesora Kováře._
 * Martin Amis – Londýnská pole ([knihobot](https://knihobot.cz/g/175701))
 * Ian McEwan – Sobota ([knihobot](https://knihobot.cz/g/120826))
 
+
+## 37 Hamás
+* Henry Kissinger – Krize ([knihobot](https://knihobot.cz/g/91346))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
