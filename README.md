@@ -305,6 +305,15 @@ _Tipy doplněny z tweetu profesora Kováře._
 ## 37 Hamás
 * Henry Kissinger – Krize ([knihobot](https://knihobot.cz/g/91346))
 
+
+## 38 Evropa v pohybu
+* Nadine Dorries – The Plot: The Political Assassination of Boris Johnson ([amazon](https://knihobot.cz/g/120826](https://www.amazon.com/Plot-Political-Assassination-Boris-Johnson/dp/0008623422)))
+* Jonathan Israel – The Dutch Republic ([amazon](https://www.amazon.com/Dutch-Republic-Greatness-1477-1806-History/dp/0198207344))
+* Ian Buruma – Vražda v Amsterodamu ([knihobot](https://knihobot.cz/g/159209))
+* Ian Buruma – Krocení bohů ([knihobot](https://knihobot.cz/g/106468))
+* William Easterly – Břímě bílého muže ([knihobot](https://knihobot.cz/g/156100))
+* André Glucksmann – Hněv dítěte ([knihobot](https://knihobot.cz/g/98922))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
