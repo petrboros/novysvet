@@ -314,6 +314,13 @@ _Tipy doplněny z tweetu profesora Kováře._
 * William Easterly – Břímě bílého muže ([knihobot](https://knihobot.cz/g/156100))
 * André Glucksmann – Hněv dítěte ([knihobot](https://knihobot.cz/g/98922))
 
+
+## 39 Kam utéct
+* Hannah Arendt – Eichmann v Jeruzalémě: Zpráva o banalitě zla ([knihobot](https://knihobot.cz/g/23407))
+* Roald Dahl – Jedenadvacet polibků ([knihobot](https://knihobot.cz/g/448475)) <sub><sup>(Povídka Foxley s rozběhem)</sup></sub>
+* Ian McEwan – Hodiny ([dobrovský](https://www.knihydobrovsky.cz/kniha/hodiny-567616923))
+* Gabriel García Márquez – Žít, abych mohl vyprávět ([knihobot](https://knihobot.cz/g/117733))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
