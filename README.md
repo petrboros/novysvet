@@ -321,6 +321,10 @@ _Tipy doplněny z tweetu profesora Kováře._
 * Ian McEwan – Hodiny ([dobrovský](https://www.knihydobrovsky.cz/kniha/hodiny-567616923))
 * Gabriel García Márquez – Žít, abych mohl vyprávět ([knihobot](https://knihobot.cz/g/117733))
 
+
+## 40 Nizozemsko
+* Neil Irwin – The Alchemists ([amazon](https://www.amazon.com/Alchemists-Three-Central-Bankers-World/dp/0143124994))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
