@@ -325,6 +325,18 @@ _Tipy doplněny z tweetu profesora Kováře._
 ## 40 Nizozemsko
 * Neil Irwin – The Alchemists ([amazon](https://www.amazon.com/Alchemists-Three-Central-Bankers-World/dp/0143124994))
 
+
+## 41 Henry Kissinger
+* Henry Kissinger – Obnovení světového řádu: Metternich, Castlereagh a potíže s mírem 1812-1822 ([knihobot](https://knihobot.cz/g/185186))
+* Henry Kissinger – Roky v Bílém domě ([knihobot](https://knihobot.cz/g/138876))
+* Henry Kissinger – Bouřlivé roky ([knihobot](https://knihobot.cz/g/140244))
+* Henry Kissinger – Roky obnovy ([knihobot](https://knihobot.cz/g/185816))
+* Walter Isaacscon – Henry Kissinger: A biography ([knihobot](https://knihobot.cz/g/673092))
+* Niall Ferguson – Kissinger 1923-1968. The idealist ([knihobot](https://knihobot.cz/g/387309))
+* Karel Durman – Popely ještě žhavé I. ([knihobot](https://knihobot.cz/g/3434))
+* Karel Durman – Útěk od praporů: Kreml a krize impéria 1964-1991 ([knihobot](https://knihobot.cz/g/174977))
+* Richard Pipes – Vixi: paměti nezařaditelného ([knihobot](https://knihobot.cz/g/179457))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
