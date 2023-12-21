@@ -337,6 +337,22 @@ _Tipy doplněny z tweetu profesora Kováře._
 * Karel Durman – Útěk od praporů: Kreml a krize impéria 1964-1991 ([knihobot](https://knihobot.cz/g/174977))
 * Richard Pipes – Vixi: paměti nezařaditelného ([knihobot](https://knihobot.cz/g/179457))
 
+
+## 42 Paříž
+* Ernest Hemingway – Pohyblivý svátek ([knihobot](https://knihobot.cz/g/269606))
+* Henry Miller – Tiché dny v Clichy ([knihobot](https://knihobot.cz/g/146014))
+* George Orwell – Na dně v Paříži a Londýně ([knihobot](https://knihobot.cz/g/4819))
+* Pierre Souvestre, Allain Marcel – Fantomas ([knihobot](https://knihobot.cz/g/130781))
+* Larry Collins, Dominique Lapierre – Hoří už Paříž? ([knihobot](https://knihobot.cz/p/q/Ho%C5%99%C3%AD%20u%C5%BE%20Pa%C5%99%C3%AD%C5%BE))
+* Gilbert Adair – Snílci ([knihobot](https://knihobot.cz/g/460964))
+* Georges Simenon – Maigretův první případ
+* Stendhal – Kartouza parmská ([knihobot](https://knihobot.cz/g/387676))
+* Alexandre Dumas – Tři mušketýři ([knihobot](https://knihobot.cz/g/15787))
+* Alexandre Dumas – Hrabě Monte Cristo ([knihobot](https://knihobot.cz/g/540464))
+* Guy de Maupasant – Miláček ([knihobot](https://knihobot.cz/g/518403))
+* Victor Hugo – Bídníci ([knihobot](https://knihobot.cz/g/326879))
+* Frederick Forsyth – Den pro Šakala ([knihobot](https://knihobot.cz/g/460924))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
