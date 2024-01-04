@@ -353,6 +353,34 @@ _Tipy doplněny z tweetu profesora Kováře._
 * Victor Hugo – Bídníci ([knihobot](https://knihobot.cz/g/326879))
 * Frederick Forsyth – Den pro Šakala ([knihobot](https://knihobot.cz/g/460924))
 
+
+## 43 Výhled na rok 2024
+_Bez knižních tipů_
+
+
+## 44
+* Rudyard Kipling – Šotkova kouzla ([knihobot](https://knihobot.cz/g/252096))
+* Ondřej Neff – Měsíc mého života ([knihobot](https://knihobot.cz/g/29526))
+* Ludvík Souček – Cesta slepých ptáků. Runa Rider. Sluneční jezero ([knihobot](https://knihobot.cz/g/277853))
+* René Goscinny, Jean-Jacques Sempé – Mikulášovy patálie ([knihobot](https://knihobot.cz/g/153944))
+* Dav Pilkey – Dogman ([knihobot](https://knihobot.cz/g/206142))
+* Ondřej Neff – Tma ([knihobot](https://knihobot.cz/g/142783))
+* Ondřej Neff – Tma 2.0 ([knihobot](https://knihobot.cz/g/155972))
+* Arturo Pérez Reverte ([knhobot](https://knihobot.cz/a/8158))
+* JeanLuc Bannalec – případy komisaře Dupina ([knihobot](https://knihobot.cz/a/228660))
+* Henry Kissinger – Obnovení světového řádu: Metternich, Castlereagh a potíže s mírem 1812-1822 ([knihobot](https://knihobot.cz/g/185186))
+* Henry Kissinger – Umění diplomacie ([knihobot](https://knihobot.cz/g/57155))
+* Quentin Tarantino – Filmové spekulace ([knihobot](https://knihobot.cz/g/720200))
+* Vaclav Smil – Invention and innovation ([amazon](https://www.amazon.fr/Invention-Innovation-Brief-History-Failure/dp/0262048051))
+* David Grann – The Wager ([amazon](https://www.amazon.fr/Wager-David-Grann/dp/147118367X))
+* Michael Edward Palin – Erebus. Příběh ztracené lodi ([knihobot](https://knihobot.cz/g/23796))
+* kolektiv autorů – Příběhy mořeplavců ([knihobot](https://knihobot.cz/g/195104))
+* Nikolaj Kornejevič Čukovskij – Čtyři kapitáni ([knihobot](https://knihobot.cz/g/324720))
+* Niall Ferguson – Virtuální dějiny ([knihobot](https://knihobot.cz/g/154730))
+* Dalibor Vácha – Vilda: Příběh tančícího Vildy Jakše ([knihobot](https://knihobot.cz/g/3488828))
+
+
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
