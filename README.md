@@ -358,7 +358,7 @@ _Tipy doplněny z tweetu profesora Kováře._
 _Bez knižních tipů_
 
 
-## 44
+## 44 My jsme ti tři jak se patří
 * Rudyard Kipling – Šotkova kouzla ([knihobot](https://knihobot.cz/g/252096))
 * Ondřej Neff – Měsíc mého života ([knihobot](https://knihobot.cz/g/29526))
 * Ludvík Souček – Cesta slepých ptáků. Runa Rider. Sluneční jezero ([knihobot](https://knihobot.cz/g/277853))
@@ -380,6 +380,13 @@ _Bez knižních tipů_
 * Dalibor Vácha – Vilda: Příběh tančícího Vildy Jakše ([knihobot](https://knihobot.cz/g/3488828))
 
 
+## 45 Argentina
+* Peter Attia – Outlive ([knihobot](https://knihobot.cz/g/3485192))
+* Ernesto Sabato – Kniha o hrdinech a hrobech ([knihobot](https://knihobot.cz/g/403596))
+* Julio Cortazar – Změna osvětlení ([knihobot](https://knihobot.cz/g/123403))
+* Hannah Arendt – Eichmann v Jeruzalémě: Zpráva o banalitě zla ([knihobot](https://knihobot.cz/g/23407))
+* David Grann – The Wager ([amazon](https://www.amazon.fr/Wager-David-Grann/dp/147118367X))
+* David Grann – Killers of the Flower Moon ([knihobot](https://knihobot.cz/g/591993))
 
 ---
 
