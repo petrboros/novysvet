@@ -388,6 +388,11 @@ _Bez knižních tipů_
 * David Grann – The Wager ([amazon](https://www.amazon.fr/Wager-David-Grann/dp/147118367X))
 * David Grann – Killers of the Flower Moon ([knihobot](https://knihobot.cz/g/591993))
 
+
+## 46 Suez
+* Lawrence Durrell – Alexandrijský kvartet ([knihobot](https://knihobot.cz/g/158520))
+* Michael Ondaatje – Anglický pacient ([knihobot](https://knihobot.cz/g/44808))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
