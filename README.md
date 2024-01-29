@@ -393,6 +393,13 @@ _Bez knižních tipů_
 * Lawrence Durrell – Alexandrijský kvartet ([knihobot](https://knihobot.cz/g/158520))
 * Michael Ondaatje – Anglický pacient ([knihobot](https://knihobot.cz/g/44808))
 
+
+## 47 Washington – Nejen chuť moci
+* Jerzy Kosiński – Nabarvené ptáče ([knihobot](https://knihobot.cz/g/12254))
+* Jerzy Kosiński – Byl jsem při tom ([knihobot](https://knihobot.cz/g/49186))
+* Doris Kearns Goodwin – Team of Rivals ([knihobot](https://knihobot.cz/g/3513027))
+
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
