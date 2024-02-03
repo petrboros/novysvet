@@ -400,6 +400,18 @@ _Bez knižních tipů_
 * Doris Kearns Goodwin – Team of Rivals ([knihobot](https://knihobot.cz/g/3513027))
 
 
+## Speciál Insider + Nový svět live 31. 1. 2024
+* Timur Vermes – Už je tady zas ([knihobot](https://knihobot.cz/g/60374))
+* Joseph Kanon – Istanbul: Křižovatka cest ([knihobot](https://knihobot.cz/g/109388))
+
+
+## 48 Německo v pohybu
+* Ian Morris – K čemu je dobrá válka? ([knihobot](https://knihobot.cz/g/43565))
+* Mojmír Hampl – Vyčerpání zdrojů: Skvěle prodejný mýtus ([knihobot](https://knihobot.cz/g/368299))
+* Miroslav Bárta, Martin Kovář & Otakar Foltýn – Na rozhraní ([knihobot](https://knihobot.cz/g/215228))
+* Günter Grass – Mé století ([knihobot](https://knihobot.cz/g/140291))
+* Günter Grass – Plechový bubínek ([knihobot](https://knihobot.cz/g/174350))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
