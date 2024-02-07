@@ -412,6 +412,14 @@ _Bez knižních tipů_
 * Günter Grass – Mé století ([knihobot](https://knihobot.cz/g/140291))
 * Günter Grass – Plechový bubínek ([knihobot](https://knihobot.cz/g/174350))
 
+## 49 Írán a/versus (nejen) Spojené státy
+* Andrej Sacharov – Jaderná energetika a svoboda Západu ([neviditelný pes](https://neviditelnypes.lidovky.cz/veda/veda-jaderna-energetika-a-svoboda-zapadu.A090622_113121_p_veda_wag))
+* Arnold Toynbee – Studium dějin ([knihobot](https://knihobot.cz/g/59162))
+* Miroslav Bárta - Sedm zákonů: Jak civilizace vznikají, dosahují vrcholu a upadají ([knihobot](https://knihobot.cz/g/2996))
+* Francis Fukuyama – Konec dějin ([knihobot](https://knihobot.cz/g/174263))
+* Mike Lofgren – Deep State ([amazon](https://www.amazon.com/Deep-State-Constitution-Shadow-Government/dp/0143109936/))
+* Bhu Srinivasan – Americana: A 400-Year History of American Capitalism ([amazon](https://www.amazon.com/Americana-400-Year-History-American-Capitalism/dp/0399563792))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
