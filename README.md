@@ -402,7 +402,7 @@ _Bez knižních tipů_
 
 ## Speciál Insider + Nový svět live 31. 1. 2024
 * Timur Vermes – Už je tady zas ([knihobot](https://knihobot.cz/g/60374))
-* Joseph Kanon – Istanbul: Křižovatka cest ([knihobot](https://knihobot.cz/g/109388))
+* Orhan Pamuk – Istanbul: Vzpomínky na město ([knihobot](https://knihobot.cz/g/65570))
 
 
 ## 48 Německo v pohybu
