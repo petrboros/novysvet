@@ -420,6 +420,29 @@ _Bez knižních tipů_
 * Mike Lofgren – Deep State ([amazon](https://www.amazon.com/Deep-State-Constitution-Shadow-Government/dp/0143109936/))
 * Bhu Srinivasan – Americana: A 400-Year History of American Capitalism ([amazon](https://www.amazon.com/Americana-400-Year-History-American-Capitalism/dp/0399563792))
 
+
+## 50 NATO
+* Andrej Sacharov – Jaderná energetika a svoboda Západu ([neviditelný pes](https://neviditelnypes.lidovky.cz/veda/veda-jaderna-energetika-a-svoboda-zapadu.A090622_113121_p_veda_wag))
+* Charles de Gaulle – Válečné paměti ([knihobot](https://knihobot.cz/g/248782))
+* Karel Durman – Útěk od praporů: Kreml a krize impéria 1964-1991 ([knihobot](https://knihobot.cz/g/174977))
+* Madeleine Albright – Tajná řeč broží ([knihobot](https://knihobot.cz/g/144015))
+* John Lewis Gaddis – Studená válka ([knihobot](https://knihobot.cz/g/154400))
+
+
+
+## Pod čarou
+Vybrané tituly z příspěvků autorů Nového světa, které nenáleží konkrétnímu dílu podcastu.
+
+* Zbyněk Hrkal – Evropa včera. Evropa dnes. Zítra? ([knihobot](https://knihobot.cz/g/3634017))
+* Martin Bartoš – Historie krkonošských bud ([knihobot](https://knihobot.cz/g/194530))
+* Jan Wanner – Bitva o Suez ([knihobot](https://knihobot.cz/g/172130))
+* Jan Wanner – Ve stínu studené války ([knihobot](https://knihobot.cz/g/181350))
+* Světlana Alexijevičová – Válka nemá ženskou tvář ([knihobot](https://knihobot.cz/g/240238))
+* Světlana Alexijevičová – Poslední svědci ([knihobot](https://knihobot.cz/g/196186))
+* Světlana Alexijevičová – Zinkoví chlapci ([knihobot](https://knihobot.cz/g/38944))
+* Světlana Alexijevičová – Modlitba za Černobyl ([knihobot](https://knihobot.cz/g/108620))
+* Světlana Alexijevičová – Doba z druhé ruky ([knihobot](https://knihobot.cz/g/40096))
+
 ---
 
 Chyby a doplnění prosím ideálně do Github Issues nebo na Twitter @petrboros, díky.
