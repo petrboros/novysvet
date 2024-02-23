@@ -442,6 +442,8 @@ Vybrané tituly z příspěvků autorů Nového světa, které nenáleží konkr
 * Světlana Alexijevičová – Zinkoví chlapci ([knihobot](https://knihobot.cz/g/38944))
 * Světlana Alexijevičová – Modlitba za Černobyl ([knihobot](https://knihobot.cz/g/108620))
 * Světlana Alexijevičová – Doba z druhé ruky ([knihobot](https://knihobot.cz/g/40096))
+* Niall Ferguson – Britské impérium ([knihobot](https://knihobot.cz/g/359370))
+* Niall Ferguson – Colossus ([knihobot](https://knihobot.cz/g/179767))
 
 ---
 
