@@ -429,6 +429,17 @@ _Bez knižních tipů_
 * John Lewis Gaddis – Studená válka ([knihobot](https://knihobot.cz/g/154400))
 
 
+## 51 Turecko, sultán Erdogan a Istanbul
+* Misha Glenny – Balkán 1804-1999: Nacionalismus, válka a velmoci ([knihobot](https://knihobot.cz/g/188600))
+* Alan Warwick Palmer – Úpadek a pád Osmanské říše ([knihobot](https://knihobot.cz/g/113022))
+* Orhan Pamuk – Istanbul: Vzpomínky na město ([knihobot](https://knihobot.cz/g/65570))
+* Vojtěch Zamarovský – Objevení Tróje ([knihobot](https://knihobot.cz/g/98256))
+* Radislav Hošek – Země bohů a lidí ([knihobot](https://knihobot.cz/g/396368))
+* Umberto Eco – Poznámky na krabičkách od sirek ([knihobot](https://knihobot.cz/g/119499)) <sub><sup>(fejeton o imigraci)</sup></sub>
+* John Gunter – Evropa jaká je ([knihobot](https://knihobot.cz/g/361864))
+* Miroslav Bárta, Martin Kovář & Otakar Foltýn – Na rozhraní ([knihobot](https://knihobot.cz/g/215228))
+* Karl May – Divokým Kurdistánem ([knihobot](https://knihobot.cz/g/111185))
+
 
 ## Pod čarou
 Vybrané tituly z příspěvků autorů Nového světa, které nenáleží konkrétnímu dílu podcastu.
