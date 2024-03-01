@@ -441,6 +441,22 @@ _Bez knižních tipů_
 * Karl May – Divokým Kurdistánem ([knihobot](https://knihobot.cz/g/111185))
 
 
+## 52 Maďarsko
+* Charles Dickens – Příběh dvou měst ([knihobot](https://knihobot.cz/g/24568))
+* Petr Stančík – Mlýn na mumie ([knihobot](https://knihobot.cz/g/116090))
+* George Friedman – Ohrožená Evropa ([knihobot](https://knihobot.cz/g/69166))
+* Sándor Márai – Deníky ([knihobot](https://knihobot.cz/g/548838))
+* Sándor Márai – Svíce dohořívají ([knihobot](https://knihobot.cz/g/146666))
+* László Almásy – Lehrbuch der Wüstenfahrtechnik
+* Raymond Chandler – Sbohem buď, lásko má ([knihobot](https://knihobot.cz/g/109733))
+* Karel Durman – Popely ještě žhavé I. ([knihobot](https://knihobot.cz/g/3434))
+* Karel Durman – Útěk od praporů: Kreml a krize impéria 1964-1991 ([knihobot](https://knihobot.cz/g/174977))
+* Ivo Možný – Proč tak snadno ([knihobot](https://knihobot.cz/g/161234))
+* Per Wahlöö – 10 románů o zločinu ([knihobot](https://knihobot.cz/g/181470))
+* Francois Fejtö – Rekviem za mrtvou říši ([knihobot](https://knihobot.cz/g/96518))
+* Alan Sked – Úpadek a pád habsburské říše ([knihobot](https://knihobot.cz/g/88382))
+
+
 ## Pod čarou
 Vybrané tituly z příspěvků autorů Nového světa, které nenáleží konkrétnímu dílu podcastu.
 
@@ -455,6 +471,7 @@ Vybrané tituly z příspěvků autorů Nového světa, které nenáleží konkr
 * Světlana Alexijevičová – Doba z druhé ruky ([knihobot](https://knihobot.cz/g/40096))
 * Niall Ferguson – Britské impérium ([knihobot](https://knihobot.cz/g/359370))
 * Niall Ferguson – Colossus ([knihobot](https://knihobot.cz/g/179767))
+* Peter Turchin – End Times ([amazon](https://www.amazon.com/End-Times-Counter-Elites-Political-Disintegration/dp/0593490509))
 
 ---
 
