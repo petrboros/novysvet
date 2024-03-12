@@ -2,6 +2,13 @@
 
 Níže najdete seznam knih zmíněných v [podcastu Nový svět](https://www.info.cz/podcasty/novy-svet).
 
+> [!IMPORTANT]
+> Seznam je od 52. dílu podcastu zakonzervován a nahrazen oficiálním e-shopem podcastu:
+> 
+> **[https://shop.datarun.cz/](https://shop.datarun.cz/)**
+> 
+> Na něm najdete tyto a další knihy, které tam zároveň můžete rovnou zakoupit.
+
 
 ## 1 Evropa
 * Miroslav Bárta, Martin Kovář & Otakar Foltýn – Na rozhraní ([knihobot](https://knihobot.cz/g/215228))
